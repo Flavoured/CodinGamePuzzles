@@ -24,7 +24,7 @@ int main()
         }
         
     }
-    
+
     cout << Level << endl;
     cout << Xp-CurXP << endl;
 }
